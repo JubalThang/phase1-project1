@@ -1,0 +1,92 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg",
+      "like": true,
+      "type": "grass",
+      "weight": 69
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg",
+      "like": false,
+      "type": "grass",
+      "weight": 130
+    },
+    {
+      "id": 3,
+      "name": "venusaur",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg",
+      "like": true,
+      "type": "poison",
+      "weight": 1000
+    },
+    {
+      "id": 4,
+      "name": "charmander",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg",
+      "like": false,
+      "type": "fire",
+      "weight": 85
+    },
+    {
+      "id": 5,
+      "name": "charmeleon",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg",
+      "like": false,
+      "type": "fire",
+      "weight": 190
+    },
+    {
+      "id": 6,
+      "name": "charizard",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg",
+      "like": true,
+      "type": "flying",
+      "weight": 105
+    },
+    {
+      "id": 7,
+      "name": "squirtle",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/7.svg",
+      "like": false,
+      "type": "water",
+      "weight": 90
+    },
+    {
+      "id": 8,
+      "name": "wartortle",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/8.svg",
+      "like": true,
+      "type": "water",
+      "weight": 225
+    },
+    {
+      "id": 9,
+      "name": "blastoise",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg",
+      "like": true,
+      "type": "water",
+      "weight": 855
+    },
+    {
+      "id": 10,
+      "name": "caterpie",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/10.svg",
+      "like": false,
+      "type": "bug",
+      "weight": 29
+    },
+    {
+      "name": "Pikachu",
+      "img_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/25.svg",
+      "like": false,
+      "type": "electric",
+      "weight": "60",
+      "id": 11
+    }
+  ]
+}
